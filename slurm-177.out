@@ -1,0 +1,27 @@
+init ok, will output to:  Fe+2_2_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_2_2_out
+Traceback (most recent call last):
+  File "/home/jeff/chem/final-year-proejct/polymer.py", line 207, in <module>
+    polymer.build()
+  File "/home/jeff/chem/final-year-proejct/polymer.py", line 81, in build
+    self.set_building_blocks_with_center()
+  File "/home/jeff/chem/final-year-proejct/polymer.py", line 61, in set_building_blocks_with_center
+    self.first_bb = self.build_porphyrin_with_center(Br)
+  File "/home/jeff/chem/final-year-proejct/polymer.py", line 119, in build_porphyrin_with_center
+    metal = stk.BuildingBlock(
+  File "/home/jeff/.local/lib/python3.9/site-packages/stk/molecular/molecules/building_block.py", line 146, in __init__
+    self._init_from_rdkit_mol(
+  File "/home/jeff/.local/lib/python3.9/site-packages/stk/molecular/molecules/building_block.py", line 606, in _init_from_rdkit_mol
+    self._with_functional_groups(self._extract_functional_groups(
+  File "/home/jeff/.local/lib/python3.9/site-packages/stk/molecular/molecules/building_block.py", line 695, in _with_functional_groups
+    self._functional_groups = tuple(functional_groups)
+  File "/home/jeff/.local/lib/python3.9/site-packages/stk/molecular/molecules/building_block.py", line 682, in _extract_functional_groups
+    for functional_group in functional_groups:
+  File "/home/jeff/chem/final-year-proejct/polymer.py", line 122, in <genexpr>
+    atom
+NameError: free variable 'atom' referenced before assignment in enclosing scope
+srun: error: jelfscompute1: task 0: Exited with exit code 1

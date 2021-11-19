@@ -1,0 +1,27 @@
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505223949808>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505223949808>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505224410544>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505224410544>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505190203296>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505190203296>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505190238912>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505190238912>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505224107104>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505224107104>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505189899040>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505189899040>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505190193136>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505190193136>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505190149376>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505190149376>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505224107632>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505224107632>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505190241472>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505190241472>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22505601862048>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22505601862048>.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+slurmstepd-jelfscompute1: error: *** STEP 175.0 ON jelfscompute1 CANCELLED AT 2021-11-19T00:46:00 ***
+slurmstepd-jelfscompute1: error: *** JOB 175 ON jelfscompute1 CANCELLED AT 2021-11-19T00:46:00 ***
+srun: forcing job termination

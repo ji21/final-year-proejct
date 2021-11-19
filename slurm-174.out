@@ -1,0 +1,72 @@
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23167896121696>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23167896121696>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23167896372416>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23167896372416>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23167896393664>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23167896393664>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23167861851568>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23167861851568>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23167861883232>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23167861883232>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23167896105120>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23167896105120>.
+init ok, will output to:  _2_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _4_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _6_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _2_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _4_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _6_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _2_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _4_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _6_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  _2_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+Traceback (most recent call last):
+  File "/home/jeff/chem/final-year-proejct/polymer.py", line 191, in <module>
+    polymer.optimise()
+  File "/home/jeff/chem/final-year-proejct/polymer.py", line 178, in optimise
+    self.polymer = opt.optimize(mol=self.polymer)
+  File "/home/jeff/.local/lib/python3.9/site-packages/stko/optimizers/optimizers.py", line 133, in optimize
+    mol = optimizer.optimize(mol)
+  File "/home/jeff/.local/lib/python3.9/site-packages/stko/optimizers/rdkit.py", line 209, in optimize
+    position_matrix=rdkit_mol.GetConformer().GetPositions()
+ValueError: Bad Conformer Id
+srun: error: jelfscompute1: task 0: Exited with exit code 1

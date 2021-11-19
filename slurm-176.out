@@ -1,0 +1,17 @@
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23256245185504>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23256245185504>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23256104381696>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23256104381696>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23256245185504>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23256245185504>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23256473516880>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23256473516880>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23256104656320>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23256104656320>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23256104655744>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23256104655744>.
+srun: got SIGCONT
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-jelfscompute1: error: *** JOB 176 ON jelfscompute1 CANCELLED AT 2021-11-19T10:19:55 ***
+srun: forcing job termination
+slurmstepd-jelfscompute1: error: *** STEP 176.0 ON jelfscompute1 CANCELLED AT 2021-11-19T10:19:55 ***
