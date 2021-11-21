@@ -71,7 +71,7 @@
    J. Pisarek, C. Plett, P. Pracht, J. Seibert, P. Shushkov, S. Spicher
    M. Stahn, M. Steiner, T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2021/11/20 at 15:56:58.434     
+ * started run on 2021/11/21 at 01:42:28.748     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -84,7 +84,7 @@
           number of electrons        :                   661
           charge                     :                     0
           spin                       :                   0.5
-          first test random number   :      0.31164823789233
+          first test random number   :      0.78335365965256
 
    ID    Z sym.   atoms
     1   27 Co     1, 37, 89, 124, 159
@@ -394,13 +394,13 @@
                   HL-Gap            0.0000149 Eh            0.0004 eV
              Fermi-level           -0.3461027 Eh           -9.4179 eV
 
- SCC (total)                   0 d,  0 h,  0 min, 24.943 sec
+ SCC (total)                   0 d,  0 h,  0 min, 23.462 sec
  SCC setup                      ...        0 min,  0.007 sec (  0.029%)
- Dispersion                     ...        0 min,  0.014 sec (  0.057%)
+ Dispersion                     ...        0 min,  0.014 sec (  0.061%)
  classical contributions        ...        0 min,  0.002 sec (  0.006%)
- integral evaluation            ...        0 min,  0.120 sec (  0.479%)
- iterations                     ...        0 min, 24.463 sec ( 98.076%)
- molecular gradient             ...        0 min,  0.324 sec (  1.299%)
+ integral evaluation            ...        0 min,  0.126 sec (  0.538%)
+ iterations                     ...        0 min, 22.990 sec ( 97.990%)
+ molecular gradient             ...        0 min,  0.310 sec (  1.321%)
  printout                       ...        0 min,  0.013 sec (  0.054%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -887,14 +887,14 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2021/11/20 at 15:57:23.484     
+ * finished run on 2021/11/21 at 01:42:52.310     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min, 25.050 sec
- *  cpu-time:     0 d,  0 h,  0 min, 25.050 sec
+ * wall-time:     0 d,  0 h,  0 min, 23.562 sec
+ *  cpu-time:     0 d,  0 h,  0 min, 23.562 sec
  * ratio c/w:     1.000 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min, 24.945 sec
- *  cpu-time:     0 d,  0 h,  0 min, 24.946 sec
+ * wall-time:     0 d,  0 h,  0 min, 23.464 sec
+ *  cpu-time:     0 d,  0 h,  0 min, 23.465 sec
  * ratio c/w:     1.000 speedup
 

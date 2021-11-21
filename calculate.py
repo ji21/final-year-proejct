@@ -115,10 +115,14 @@ class Polymer():
         return
 
     def calculate(self):
-        fname = self.dir + '/xtbopt.xyz'
+        if self.center == "":
+            fname = './free_base/' + self.dir + '/xtbopt.xyz'
+            out = './free_base/' + self.dir + "energy"
+        else:
+            fname = self.dir + '/xtbopt.xyz'
+            out = self.dir + "energy"
         p = self.polymer.with_structure_from_file(path=fname)
         print(fname)
-        out = self.dir + "energy"
 
         xtb = stko.XTBEnergy(
                 xtb_path='/home/jeff/miniconda3/bin/xtb',
@@ -228,7 +232,7 @@ row_list = [["center", "linkers", "porphyrins", "gap", "homo", "lumo", "energy"]
 linker_carbons = [2,4,6]
 #add 6 later
 repeating_units = [1,2,3,4,5]
-centers = ["Zn+2", "Fe+2", "Ni+2", "Co+2", "Cu+2"]
+centers = ["", "Zn+2", "Fe+2", "Ni+2", "Co+2", "Cu+2"]
 
 #polymer = Polymer(center="Co+2", linker_carbons=2, repeating_units=5, charge=0)
 #polymer.build()
@@ -241,7 +245,10 @@ centers = ["Zn+2", "Fe+2", "Ni+2", "Co+2", "Cu+2"]
 for r in repeating_units:
     for c in linker_carbons:
         for center in centers:
-            fname = f'{center}_{c}_{r+1}_out/xtbopt.xyz'
+            if center == "":
+                fname = f'./free_base/{center}_{c}_{r+1}_out/xtbopt.xyz'
+            else:
+                fname = f'{center}_{c}_{r+1}_out/xtbopt.xyz'
             if os.path.isfile(fname):
                 print(fname)
                 polymer = Polymer(center=center, linker_carbons=c, repeating_units=r, charge=0)
