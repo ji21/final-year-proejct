@@ -190,8 +190,8 @@ class Polymer():
         return
 
 linker_carbons = [2,4,6]
-#repeating_units = [1,2,3,4,5,6,7,8]
-repeating_units = [1,2,3,4,5,6]
+repeating_units = [7,8]
+#repeating_units = [1,2,3,4,5,6]
 centers = [""]
 for r in repeating_units:
     for c in linker_carbons:

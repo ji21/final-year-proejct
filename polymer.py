@@ -191,11 +191,11 @@ class Polymer():
         return
 
 linker_carbons = [2,4,6]
-#repeating_units = [1,2,3,4,5,6,7,8]
-repeating_units = [1,2,3,4,5,6]
+repeating_units = [7,8]
+#repeating_units = [1,2,3,4,5,6]
 centers = ["Zn+2", "Fe+2", "Ni+2", "Co+2", "Cu+2"]
 #for center in centers:
-  #  for r in repeating_units:
+ #   for r in repeating_units:
   #      for c in linker_carbons:
         #    fname = f'{center}_{c}_{r+1}_out/xtbopt.xyz'
        #     if not os.path.isfile(fname):
@@ -204,16 +204,16 @@ centers = ["Zn+2", "Fe+2", "Ni+2", "Co+2", "Cu+2"]
              #   polymer.build()
             #    polymer.optimise()
 
-#for r in repeating_units:
-   # for c in linker_carbons:
-       # for center in centers:
-           # fname = f'{center}_{c}_{r+1}_out/xtbopt.xyz'
-          #  if not os.path.isfile(fname):
-               # print(fname)
-         #       polymer = Polymer(center=center, linker_carbons=c, repeating_units=r, charge=0)
-        #        polymer.build()
-       #         polymer.optimise()
+for r in repeating_units:
+    for c in linker_carbons:
+        for center in centers:
+            fname = f'{center}_{c}_{r+1}_out/xtbopt.xyz'
+            if not os.path.isfile(fname):
+                print(fname)
+                polymer = Polymer(center=center, linker_carbons=c, repeating_units=r, charge=0)
+                polymer.build()
+                polymer.optimise()
 
-polymer = Polymer(center="", linker_carbons=2, repeating_units=6)
-polymer.build()
-polymer.optimise()
+#polymer = Polymer(center="", linker_carbons=2, repeating_units=6)
+#polymer.build()
+#polymer.optimise()

@@ -1,0 +1,48 @@
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23093176864048>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23093176864048>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23093142725344>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23093142725344>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23093176850848>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23093176850848>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23093143168816>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23093143168816>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23093176863712>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23093176863712>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 23093142728368>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 23093142728368>.
+_2_8_out/xtbopt.xyz
+init ok, will output to:  _2_8_out
+patter : ABCBCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_4_8_out/xtbopt.xyz
+init ok, will output to:  _4_8_out
+patter : ABCBCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_6_8_out/xtbopt.xyz
+init ok, will output to:  _6_8_out
+patter : ABCBCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_2_9_out/xtbopt.xyz
+init ok, will output to:  _2_9_out
+patter : ABCBCBCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_4_9_out/xtbopt.xyz
+init ok, will output to:  _4_9_out
+patter : ABCBCBCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_6_9_out/xtbopt.xyz
+init ok, will output to:  _6_9_out
+patter : ABCBCBCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising

@@ -71,7 +71,7 @@
    J. Pisarek, C. Plett, P. Pracht, J. Seibert, P. Shushkov, S. Spicher
    M. Stahn, M. Steiner, T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2021/11/21 at 01:45:37.707     
+ * started run on 2021/11/21 at 19:14:32.856     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -84,7 +84,7 @@
           number of electrons        :                   796
           charge                     :                     0
           spin                       :                   0.0
-          first test random number   :      0.73326756453045
+          first test random number   :      0.37552656470413
 
    ID    Z sym.   atoms
     1   27 Co     1, 37, 93, 128, 163, 198
@@ -420,14 +420,14 @@
                   HL-Gap            0.0000013 Eh            0.0000 eV
              Fermi-level           -0.3465416 Eh           -9.4299 eV
 
- SCC (total)                   0 d,  0 h,  0 min, 42.258 sec
- SCC setup                      ...        0 min,  0.010 sec (  0.023%)
- Dispersion                     ...        0 min,  0.028 sec (  0.067%)
- classical contributions        ...        0 min,  0.003 sec (  0.008%)
- integral evaluation            ...        0 min,  0.149 sec (  0.353%)
- iterations                     ...        0 min, 41.650 sec ( 98.560%)
- molecular gradient             ...        0 min,  0.397 sec (  0.939%)
- printout                       ...        0 min,  0.021 sec (  0.049%)
+ SCC (total)                   0 d,  0 h,  0 min, 45.216 sec
+ SCC setup                      ...        0 min,  0.010 sec (  0.022%)
+ Dispersion                     ...        0 min,  0.022 sec (  0.048%)
+ classical contributions        ...        0 min,  0.002 sec (  0.004%)
+ integral evaluation            ...        0 min,  0.165 sec (  0.364%)
+ iterations                     ...        0 min, 44.569 sec ( 98.569%)
+ molecular gradient             ...        0 min,  0.427 sec (  0.944%)
+ printout                       ...        0 min,  0.022 sec (  0.048%)
 
 ########################################################################
 [ERROR] Program stopped due to fatal error

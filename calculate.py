@@ -135,8 +135,8 @@ class Polymer():
             hl_orbitals = r.get_homo_lumo_orbitals()
             self.homo = hl_orbitals[0]['HOMO'][2]
             self.lumo = hl_orbitals[0]['LUMO'][2]
-            self.energy = r.get_total_energy()
-            print(r.get_total_energy())
+            self.energy = r.get_total_energy()[0]
+            print(r.get_total_energy()[0])
             print(hl_orbitals)
             print(r.get_homo_lumo_gap())
         except Exception as e:
@@ -231,7 +231,7 @@ class Polymer():
 row_list = [["center", "linkers", "porphyrins", "gap", "homo", "lumo", "energy"]]
 linker_carbons = [2,4,6]
 #add 6 later
-repeating_units = [1,2,3,4,5]
+repeating_units = [1,2,3,4,5,6,7,8]
 centers = ["", "Zn+2", "Fe+2", "Ni+2", "Co+2", "Cu+2"]
 
 #polymer = Polymer(center="Co+2", linker_carbons=2, repeating_units=5, charge=0)
@@ -256,6 +256,7 @@ for r in repeating_units:
                 if polymer.calculate():
                     features = [center, c, r+1, polymer.gap, polymer.homo, polymer.lumo, polymer.energy]
                     row_list.append(features)
+        print(row_list)
              
 
 with open('data.csv', 'w', newline='') as file:
