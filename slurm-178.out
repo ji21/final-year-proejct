@@ -44,3 +44,426 @@ WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499
 WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499449961056>.
 WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450382464>.
 WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450382464>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499449936048>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499449936048>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450026976>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450026976>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450030304>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450030304>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450302624>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450302624>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499449992912>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499449992912>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499449930224>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499449930224>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450306464>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450306464>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499449992912>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499449992912>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415967296>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415967296>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450017296>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450017296>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415842976>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415842976>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415989360>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415989360>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415791936>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415791936>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450127456>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450127456>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415763072>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415763072>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499416058752>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499416058752>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450022496>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450022496>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450255296>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450255296>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499449932000>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499449932000>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499416026080>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499416026080>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415859008>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415859008>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499449937296>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499449937296>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450041920>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450041920>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499449932528>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499449932528>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415857232>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415857232>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450119936>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450119936>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450020288>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450020288>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450086352>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450086352>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415761584>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415761584>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499415988400>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499415988400>.
+init ok, will output to:  Ni+2_2_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_2_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_2_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_4_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_4_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_4_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_4_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_6_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_6_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_6_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_6_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_2_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_2_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_2_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_2_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_4_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_4_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_4_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_4_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_6_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_6_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_6_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_6_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_2_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_2_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_2_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_2_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_4_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_4_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_4_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_4_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_6_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_6_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_6_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_6_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_2_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_2_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_2_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_2_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_4_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_4_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_4_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_4_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_6_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_6_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+Optimization failed to complete
+finished optimising
+init ok, will output to:  Co+2_6_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_6_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_2_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_2_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_2_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_2_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_4_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_4_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_4_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_4_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_6_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_6_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_6_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_6_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_2_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Ni+2_2_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+Optimization failed to complete
+finished optimising
+init ok, will output to:  Co+2_2_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_2_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_4_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+Optimization failed to complete
+finished optimising
+init ok, will output to:  Ni+2_4_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Co+2_4_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Cu+2_4_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+init ok, will output to:  Fe+2_6_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+Optimization failed to complete
+finished optimising
+init ok, will output to:  Ni+2_6_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+Optimization failed to complete
+finished optimising
+init ok, will output to:  Co+2_6_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+Optimization failed to complete
+finished optimising
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22499450276544>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22499450276544>.
+init ok, will output to:  Cu+2_6_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising

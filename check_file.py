@@ -10,8 +10,10 @@ for center in centers:
     for r in repeating_units:
         for c in linker_carbons:
             total += 1
-            fname = f'{center}_{c}_{r+1}_out/xtbopt.xyz'
-            #print(fname)
+            if center == "":
+                fname = f'./free_base/{center}_{c}_{r+1}_out/xtbopt.xyz'
+            else:
+                fname = f'{center}_{c}_{r+1}_out/xtbopt.xyz'
             if not os.path.isfile(fname):
                 missing_files.append((center,c,r+1))
 

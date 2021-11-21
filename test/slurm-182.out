@@ -1,0 +1,7 @@
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22503065860128>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22503065860128>.
+init ok, will output to:  _2_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising

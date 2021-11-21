@@ -1,0 +1,132 @@
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446617894336>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446617894336>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446617868704>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446617868704>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446618019536>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446618019536>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446617868464>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446617868464>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446617877424>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446617877424>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446584112752>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446584112752>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446584113952>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446584113952>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446618016736>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446618016736>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446617856992>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446617856992>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446617867120>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446617867120>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446584114144>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446584114144>.
+WARNING:root:Small negative frequencies present in <ConstructedMolecule at 22446617868368>.
+WARNING:root:Optimization is incomplete for <ConstructedMolecule at 22446617868368>.
+_2_2_out/xtbopt.xyz
+init ok, will output to:  _2_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+_4_2_out/xtbopt.xyz
+init ok, will output to:  _4_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+_6_2_out/xtbopt.xyz
+init ok, will output to:  _6_2_out
+patter : ABC
+finished building polymer
+optimising
+finished optimising
+_2_3_out/xtbopt.xyz
+init ok, will output to:  _2_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+_4_3_out/xtbopt.xyz
+init ok, will output to:  _4_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+_6_3_out/xtbopt.xyz
+init ok, will output to:  _6_3_out
+patter : ABCBA
+finished building polymer
+optimising
+finished optimising
+_2_4_out/xtbopt.xyz
+init ok, will output to:  _2_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+_4_4_out/xtbopt.xyz
+init ok, will output to:  _4_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+_6_4_out/xtbopt.xyz
+init ok, will output to:  _6_4_out
+patter : ABCBCBA
+finished building polymer
+optimising
+finished optimising
+_2_5_out/xtbopt.xyz
+init ok, will output to:  _2_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_4_5_out/xtbopt.xyz
+init ok, will output to:  _4_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_6_5_out/xtbopt.xyz
+init ok, will output to:  _6_5_out
+patter : ABCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_2_6_out/xtbopt.xyz
+init ok, will output to:  _2_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_4_6_out/xtbopt.xyz
+init ok, will output to:  _4_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_6_6_out/xtbopt.xyz
+init ok, will output to:  _6_6_out
+patter : ABCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_2_7_out/xtbopt.xyz
+init ok, will output to:  _2_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_4_7_out/xtbopt.xyz
+init ok, will output to:  _4_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
+_6_7_out/xtbopt.xyz
+init ok, will output to:  _6_7_out
+patter : ABCBCBCBCBCBA
+finished building polymer
+optimising
+finished optimising
