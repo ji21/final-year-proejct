@@ -71,7 +71,7 @@
    J. Pisarek, C. Plett, P. Pracht, J. Seibert, P. Shushkov, S. Spicher
    M. Stahn, M. Steiner, T. Strunk, J. Stückrath, T. Rose, and J. Unsleber
    
- * started run on 2021/11/21 at 19:08:36.580     
+ * started run on 2021/11/21 at 21:09:28.369     
 
            -------------------------------------------------
           |                Calculation Setup                |
@@ -84,7 +84,7 @@
           number of electrons        :                   354
           charge                     :                     0
           spin                       :                   0.0
-          first test random number   :      0.80840729511856
+          first test random number   :      0.53567467059175
 
    ID    Z sym.   atoms
     1    6 C      1-8, 10-14, 16-20, 22, 23, 38-45, 47-51, 53-57, 59, 60,
@@ -179,14 +179,14 @@
                   HL-Gap            0.0343604 Eh            0.9350 eV
              Fermi-level           -0.3289737 Eh           -8.9518 eV
 
- SCC (total)                   0 d,  0 h,  0 min,  0.531 sec
- SCC setup                      ...        0 min,  0.002 sec (  0.416%)
- Dispersion                     ...        0 min,  0.005 sec (  0.899%)
- classical contributions        ...        0 min,  0.001 sec (  0.152%)
- integral evaluation            ...        0 min,  0.042 sec (  7.939%)
- iterations                     ...        0 min,  0.323 sec ( 60.835%)
- molecular gradient             ...        0 min,  0.155 sec ( 29.270%)
- printout                       ...        0 min,  0.003 sec (  0.486%)
+ SCC (total)                   0 d,  0 h,  0 min,  0.523 sec
+ SCC setup                      ...        0 min,  0.002 sec (  0.397%)
+ Dispersion                     ...        0 min,  0.005 sec (  0.879%)
+ classical contributions        ...        0 min,  0.001 sec (  0.150%)
+ integral evaluation            ...        0 min,  0.041 sec (  7.891%)
+ iterations                     ...        0 min,  0.317 sec ( 60.754%)
+ molecular gradient             ...        0 min,  0.154 sec ( 29.419%)
+ printout                       ...        0 min,  0.003 sec (  0.507%)
 
          :::::::::::::::::::::::::::::::::::::::::::::::::::::
          ::                     SUMMARY                     ::
@@ -509,14 +509,14 @@ molecular quadrupole (traceless):
            -------------------------------------------------
 
 ------------------------------------------------------------------------
- * finished run on 2021/11/21 at 19:08:37.158     
+ * finished run on 2021/11/21 at 21:09:28.942     
 ------------------------------------------------------------------------
  total:
- * wall-time:     0 d,  0 h,  0 min,  0.578 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.578 sec
+ * wall-time:     0 d,  0 h,  0 min,  0.574 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.574 sec
  * ratio c/w:     1.000 speedup
  SCF:
- * wall-time:     0 d,  0 h,  0 min,  0.531 sec
- *  cpu-time:     0 d,  0 h,  0 min,  0.531 sec
+ * wall-time:     0 d,  0 h,  0 min,  0.523 sec
+ *  cpu-time:     0 d,  0 h,  0 min,  0.523 sec
  * ratio c/w:     1.000 speedup
 

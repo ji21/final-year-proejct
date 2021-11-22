@@ -136,7 +136,8 @@ class Polymer():
             self.homo = hl_orbitals[0]['HOMO'][2]
             self.lumo = hl_orbitals[0]['LUMO'][2]
             self.energy = r.get_total_energy()[0]
-            print(r.get_total_energy()[0])
+            self.fermi = r.get_fermi_level()[0]
+            print(r.get_full_dipole_moments())
             print(hl_orbitals)
             print(r.get_homo_lumo_gap())
         except Exception as e:
@@ -228,7 +229,7 @@ class Polymer():
         print("finished optimising")
         return
 
-row_list = [["center", "linkers", "porphyrins", "gap", "homo", "lumo", "energy"]]
+row_list = [["center", "linkers", "porphyrins", "gap", "homo", "lumo", "energy", "fermi"]]
 linker_carbons = [2,4,6]
 #add 6 later
 repeating_units = [1,2,3,4,5,6,7,8]
@@ -254,7 +255,7 @@ for r in repeating_units:
                 polymer = Polymer(center=center, linker_carbons=c, repeating_units=r, charge=0)
                 polymer.build()
                 if polymer.calculate():
-                    features = [center, c, r+1, polymer.gap, polymer.homo, polymer.lumo, polymer.energy]
+                    features = [center, c, r+1, polymer.gap, polymer.homo, polymer.lumo, polymer.energy, polymer.fermi]
                     row_list.append(features)
         print(row_list)
              
